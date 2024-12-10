@@ -8,7 +8,7 @@ public class Zoologico {
     private Zona[] zonas;
 
     public void setNombre(String nombre){
-        this.nombre = nombre
+        this.nombre = nombre;
     }
 
     public String getNombre() {
