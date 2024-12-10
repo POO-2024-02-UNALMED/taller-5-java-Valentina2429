@@ -65,3 +65,5 @@ public class Pez extends Animal {
 		Pez.bacalaos++;
 		return Pez;
 	}
+
+}
